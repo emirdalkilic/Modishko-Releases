@@ -1,6 +1,6 @@
 {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "min_required_version": "1.0.0",
-    "changelog": "Nil için soft pembe-beyaz tema, animasyonlu tema geçişleri ve kalp efektleri eklendi. Nil temasında kedi logosu ve pasta menü ikonları kullanılır; varsayılan tema düğmesi egishko olarak kalır ve seçiliyken yeşildir. Temalar arasında geçişte kalan pembe yazılar ve ikon sorunları düzeltildi. Modların çalışma akışı değiştirilmedi.",
-    "download_url": "https://github.com/emirdalkilic/Modishko-Releases/releases/download/v1.0.9/Modishko-Setup.exe"
+    "changelog": "Sol menüye Kostüm Kataloğu'nun altına “Aktif Kostümler” sekmesi eklendi; katalogdan seçtiğin tüm kostümleri tek yerde görüp kaldırabilirsin. İsteğe bağlı MongoDB günlük aynası eklendi (varsayılan olarak kapalıdır). Modların çalışma akışı değiştirilmedi.",
+    "download_url": "https://github.com/emirdalkilic/Modishko-Releases/releases/download/v1.0.10/Modishko-Setup.exe"
 }
