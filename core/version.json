@@ -1,6 +1,6 @@
 {
-    "version": "1.0.10",
+    "version": "1.0.11",
     "min_required_version": "1.0.0",
-    "changelog": "Sol menüye Kostüm Kataloğu'nun altına “Aktif Kostümler” sekmesi eklendi; katalogdan seçtiğin tüm kostümleri tek yerde görüp kaldırabilirsin. İsteğe bağlı MongoDB günlük aynası eklendi (varsayılan olarak kapalıdır). Modların çalışma akışı değiştirilmedi.",
-    "download_url": "https://github.com/emirdalkilic/Modishko-Releases/releases/download/v1.0.10/Modishko-Setup.exe"
+    "changelog": "donma falan vardı fps düşüktü onları hallettim ve egeye götten girdim -gottenzorlarov",
+    "download_url": "https://github.com/emirdalkilic/Modishko-Releases/releases/download/v1.0.11/Modishko-Setup.exe"
 }
