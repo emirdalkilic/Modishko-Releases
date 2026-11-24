@@ -1,6 +1,6 @@
 {
-  "version": "1.0.39",
+  "version": "1.0.40",
   "min_required_version": "1.0.0",
-  "changelog": "modishkoya uygun olmayan skinleri dönüştürmek için converter geldi ufak bir sürprizli",
-  "download_url": "https://github.com/emirdalkilic/Modishko-Releases/releases/download/v1.0.39/Modishko-Setup.exe"
+  "changelog": "Katalogda kostüm yükleme sorunları düzeltildi, ses ve efekt uyumluluğu iyileştirildi. Bazı kostümler paket veya oyun yaması uyumsuzluğu nedeniyle hâlâ sorunlu. Yeni Kozmetikler sekmesinde Emote, Nexus Finisher, Rainbow ve Ward / Totem paketlerini önizleyip etkinleştirebilirsin.",
+  "download_url": "https://github.com/emirdalkilic/Modishko-Releases/releases/download/v1.0.40/Modishko-Setup.exe"
 }
